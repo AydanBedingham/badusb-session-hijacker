@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieLibrary\bin\Debug\ChromeCookieLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieLibrary\bin\Debug\ChromeCookieLibrary.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieLibrary\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieLibrary\obj\Debug\ChromeCookieLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieLibrary\obj\Debug\ChromeCookieLibrary.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieLibrary\obj\Debug\ChromeCookieLibrary.csprojResolveAssemblyReference.cache

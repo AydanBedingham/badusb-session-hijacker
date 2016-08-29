@@ -1,0 +1,1 @@
+ChromeCookieImporter "C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Default\Cookies" "C:\a\aaa.txt"

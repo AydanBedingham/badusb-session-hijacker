@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\bin\Debug\ChromeCookieImporter.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\bin\Debug\ChromeCookieImporter.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\bin\Debug\ChromeCookieImporter.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\bin\Debug\ChromeCookieLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\bin\Debug\ChromeCookieLibrary.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\obj\Debug\ChromeCookieImporter.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\obj\Debug\ChromeCookieImporter.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\ChromeCookieDumper\ChromeCookieImporter\obj\Debug\ChromeCookieImporter.pdb
