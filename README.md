@@ -2,7 +2,7 @@
 
 BadUsb variant capable of extracting Chrome cookies from the local machine and utilizing them to perform session-hijacking.
 
-https://www.youtube.com/watch?v=UjN-Z_a9iWw
+[[embed url=https://www.youtube.com/watch?v=UjN-Z_a9iWw]]
 
 ## License
 
